@@ -13,9 +13,9 @@ class JConfig {
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
 	public $host = 'us-cdbr-azure-southcentral-f.cloudapp.net';
-	public $user = 'bed00acaa630fa';
-	public $password = 'c1b7ac1a';
-	public $db = 'land';
+	public $user = 'b0628fd1c1f19e';
+	public $password = '9bfaafd8';
+	public $db = 'new';
 	public $dbprefix = 'lal5d_';
 	public $live_site = '';
 	public $secret = '0BUbcSQ4BkUjIrH5';
