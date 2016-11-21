@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'us-cdbr-azure-southcentral-f.cloudapp.net';
 	public $user = 'b0628fd1c1f19e';
 	public $password = '9bfaafd8';
-	public $db = 'acsm_d9ac310af74ed3b';
+	public $db = 'new';
 	public $dbprefix = 'lal5d_';
 	public $live_site = '';
 	public $secret = '0BUbcSQ4BkUjIrH5';
